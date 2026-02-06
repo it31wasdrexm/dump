@@ -3,9 +3,6 @@ Dump
 
 video-https://drive.google.com/file/d/1m8sYesBiLUZX33ZI4jd1BSBXtlOP_yuZ/view?usp=sharing
 
-View the Website
-https://dump.rf.gd
-
 DumpStore is a fully functional e-commerce website built from scratch using PHP, MySQL, HTML, CSS, and JavaScript.
 The project implements all the core features of a real online store — from browsing and purchasing products to managing orders and inventory through the admin panel.
 
